@@ -6,6 +6,7 @@
 */
 
 window.focus();
+window.addEventListener('onmousedown', () => window.focus())
 enchant();
 
 window.onload = function() {
