@@ -5,6 +5,7 @@
 
 */
 
+window.focus();
 enchant();
 
 window.onload = function() {
